@@ -6,3 +6,10 @@
 
 # Project Info
 In this project we create a record log for books in C.
+
+# Teammates
+1.Sharad Asawa
+
+2.Prithvi Pandaala
+
+3.Omprasad Sadavarte
